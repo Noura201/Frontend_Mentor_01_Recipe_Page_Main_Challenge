@@ -31,7 +31,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Frontend Mentor Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Frontend Mentor Solution URL: (https://www.frontendmentor.io/solutions/fmnewbie-challengesrecipe-page-main-rjfgxnWjPw)
 - Live Site URL: (https://noura201.github.io/Frontend_Mentor_01_Recipe_Page_Main_Challenge/)
 - MyPersonal Linkedin URL: (https://www.linkedin.com/in/noura-mamdouh-8a81982a4/)
 
