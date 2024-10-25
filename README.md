@@ -32,7 +32,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Frontend Mentor Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://noura201.github.io/Frontend_Mentor_01_Recipe_Page_Main_Challenge/)
 - MyPersonal Linkedin URL: (https://www.linkedin.com/in/noura-mamdouh-8a81982a4/)
 
 ## My process
@@ -119,8 +119,8 @@ hr {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@NouraMamdouh](https://www.frontendmentor.io/profile/yourusername)
+- Github - [@NouraMamdouh](https://github.com/Noura201)
+- Frontend Mentor - [@NouraMamdouh](https://www.frontendmentor.io/profile/Noura201)
 - Linkedin - [@noura mamdouh](https://www.linkedin.com/in/noura-mamdouh-8a81982a4/)
 
 ## Acknowledgments
